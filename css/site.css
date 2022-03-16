@@ -1,0 +1,36 @@
+head, footer {
+    color : white;
+}
+
+
+footer{
+    background-color: #232B2B;
+}
+
+#foot{
+    position: fixed;
+}
+
+  .btn-secondary{
+    margin:10px;
+  }
+
+
+
+body{
+    background-color: darkgrey;
+    
+}
+
+
+
+
+
+input [type=text]{
+
+padding: 10px;
+}
+
+.padding{
+  padding:10px;
+}
